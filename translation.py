@@ -3,14 +3,14 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**{},
-I am https://bit.ly/PdiskPro Links Converter Bot. I Can Convert Links Directly From Your https://bit.ly/PdiskPro Account,
+I am Pdisk.site Links Converter Bot. I Can Convert Links Directly From Your Pdisk.site Account,
     
-Go To** 👉 https://bit.ly/PdiskPro?connect=true
+Go To** 👉 Moneycase.link?connect=true
 **🤗 Than Hit Start If You're Redirected To Bot.**
 
 Other Ways 👇
 
-1. **Go To** 👉 https://bit.ly/PdiskPro
+1. **Go To** 👉 Pdisk.site
 2. **Than Copy** API Key
 3. **Than Type** `/api` than give a single space and than paste your API Key
 **(see example to understand more...)**
@@ -31,7 +31,7 @@ HELP_MESSAGE = '''**{},**
 
 ɪ  ᴄᴀɴ  ᴄᴏɴᴠᴇʀᴛ  ᴀɴʏ  ᴅɪʀᴇᴄᴛ  ʟɪɴᴋ  ɪɴᴛᴏ  ʏᴏᴜʀ  ᴜʀʟ  ꜱʜᴏʀᴛᴇʀɴ  ʟɪɴᴋꜱ.
     
-𝟏.  ɢᴏ  ᴛᴏ  👉  https://bit.ly/PdiskPro
+𝟏.  ɢᴏ  ᴛᴏ  👉  Pdisk.site
   
 𝟐.  ᴛʜᴀɴ  ᴄᴏᴘʏ  **ᴀᴘɪ  ᴋᴇʏ**
 
@@ -48,13 +48,13 @@ HELP_MESSAGE = '''**{},**
 𝐍𝐎𝐓𝐄 :  ꜰᴏʀ  ᴅᴇᴛᴀɪʟꜱ 👇 👇'''
 
 ABOUT_TEXT = '''**
-I am PDisk Converter Bot. I Can Convert Links Directly From Your https://bit.ly/PdiskPro Account,**
+I am PDisk Converter Bot. I Can Convert Links Directly From Your Pdisk.site Account,**
 
 **⚡Features⚡**
 
 **• I can Convert any links or posts to your Pdisk link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)**
 
-**• I can Convert unlimited https://bit.ly/PdiskPro links at once.** (if you are sending a list of urls.)
+**• I can Convert unlimited Pdisk.site links at once.** (if you are sending a list of urls.)
 
 **• No need to share password or email to convert links.**
 
@@ -66,7 +66,7 @@ I am PDisk Converter Bot. I Can Convert Links Directly From Your https://bit.ly/
 
 **• I Can Automatically Replace Your Banner Image To images in the post. Hit  👉/Banner_image To Know More...**
 
- Anyone who want to use any **other shortner** instead of https://bit.ly/PdiskPro than **contact to owner** @playitlinksofficial (all **shortners support** available.)'''
+ Anyone who want to use any **other shortner** instead of Pdisk.site than **contact to owner** @playitlinksofficial (all **shortners support** available.)'''
 
 CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in this format
 
@@ -117,7 +117,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://Pdisk.pro/free56.html)
+- Website: [{base_site}](https://Pdisk.site)
 
 - Site Link:
  {base_site}
@@ -144,7 +144,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api 9c5a6c96077a1b499d8f953331221159383eb434 `
 
-Get API From [{base_site}](https://Pdisk.pro/free56.html)
+Get API From [{base_site}](https://Pdisk.site)
 
 Current: {base_site} 
 API: `{shortener_api}`"""
