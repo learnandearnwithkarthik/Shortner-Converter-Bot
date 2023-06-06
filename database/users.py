@@ -20,7 +20,7 @@ async def get_user(user_id):
             "header_text": "",
             "footer_text": "",
             "username": None,
-            "base_site": "Pdisk.pro",
+            "base_site": "moneycase.link",
             "banner_image": None,
             "is_banner_image": True,
             "is_username": True,
