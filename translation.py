@@ -103,7 +103,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('🪄  Connect  To  Pdisk  ⚙️', url='https://Pdisk.pro/free56.html')
+        InlineKeyboardButton('🪄  Connect  To  Pdisk  ⚙️', url='https://Pdisk.site')
     ]
 ])
 
