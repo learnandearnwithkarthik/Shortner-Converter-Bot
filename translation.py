@@ -25,7 +25,7 @@ Other Ways 👇
 **➕ Hit** 👉 /channel To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You are new to https://bit.ly/PdiskPro then click on below button to create your account.'''
+If You are new to Pdisk.site then click on below button to create your account.'''
 
 HELP_MESSAGE = '''**{},**
 
@@ -144,7 +144,7 @@ SHORTENER_API_MESSAGE = """To add or update your Shortner Website API,
             
 Ex: `/api 9c5a6c96077a1b499d8f953331221159383eb434 `
 
-Get API From [{base_site}](https://Pdisk.site)
+Get API From [{base_site}](https://moneycase.link)
 
 Current: {base_site} 
 API: `{shortener_api}`"""
