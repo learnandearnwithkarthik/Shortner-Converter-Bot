@@ -103,7 +103,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('🪄  Connect  To  Pdisk  ⚙️', url='https://Pdisk.site')
+        InlineKeyboardButton('🪄  Connect  To  Pdisk  ⚙️', url='https://moneycase.link')
     ]
 ])
 
@@ -117,7 +117,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://Pdisk.site)
+- Website: [{base_site}](https://moneycase.link)
 
 - Site Link:
  {base_site}
