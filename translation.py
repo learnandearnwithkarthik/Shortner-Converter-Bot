@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 START_MESSAGE = '''**{},
 I am Pdisk.site Links Converter Bot. I Can Convert Links Directly From Your Pdisk.site Account,
     
-Go To** 👉 Moneycase.link
+Go To** 👉 https://moneycase.link/member/tools/api?connect=true
 **🤗 Than Hit Start If You're Redirected To Bot.**
 
 Other Ways 👇
